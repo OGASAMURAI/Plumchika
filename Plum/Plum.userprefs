@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BoneBorn.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player.cs" Line="87" Column="34" />
+      <File FileName="Assets\Scripts\taruController.cs" Line="6" Column="24" />
+      <File FileName="Assets\Scripts\BoneBorn.cs" Line="28" Column="13" />
+      <File FileName="Assets\Scripts\MoveEnemy.cs" Line="15" Column="6" />
+      <File FileName="Assets\Scripts\MoveGhost.cs" Line="25" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
